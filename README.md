@@ -31,7 +31,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,firebase,laravel,nodejs" />
+    <img src="https://skillicons.dev/icons?i=dart,firebase,laravel,nodejs,php" />
   </a>
 </p>
   </a>
@@ -41,13 +41,13 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,postgresql,sqlite," />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite," />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,git,github,gitlab,docker,figma,xd,idea,vscode,postman,notion,trello,js,discord" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,git,github,gitlab,docker,figma,xd,idea,vscode,postman,notion,js,discord" />
   </a>
 </p>
