@@ -37,7 +37,7 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite," />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mysql,sqlite," />
   </a>
 </p>
 - Tools
