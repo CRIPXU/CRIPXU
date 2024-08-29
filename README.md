@@ -33,7 +33,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,flutter,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=flutter,materialui" />
 
 
 - Backend
