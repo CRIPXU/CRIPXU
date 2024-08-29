@@ -35,11 +35,20 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
 
+
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
   </a>
 </p>
+  </a>
+</p>
+
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
