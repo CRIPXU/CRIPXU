@@ -33,13 +33,13 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=serverpod,firebase,laravel,nodejs" />
+    <img src="https://skillicons.dev/icons?i=dart,firebase,laravel,nodejs" />
   </a>
 </p>
   </a>
