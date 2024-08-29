@@ -20,14 +20,11 @@
 - 📫 How to reach me: [cristofer669galo@gmail.com](cristofer669galo@gmail.com)
 - ⚡ Fun fact I love my job
 
-
 <!-- LENGUAJES Y HERRAMIENTAS -->
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
@@ -36,15 +33,12 @@
 </p>
   </a>
 </p>
-
-
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite," />
   </a>
 </p>
-
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
